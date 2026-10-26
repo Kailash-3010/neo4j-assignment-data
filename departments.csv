@@ -1,0 +1,8 @@
+dept_id,name,type
+DEP01,Engineering,Technology
+DEP02,Data Science,Technology
+DEP03,Security,Security
+DEP04,Compliance,Governance
+DEP05,Executive,Leadership
+DEP06,Finance,Business
+DEP07,Human Resources,Business

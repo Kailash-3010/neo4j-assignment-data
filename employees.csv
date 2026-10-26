@@ -1,0 +1,21 @@
+employee_id,name,title,clearance,city
+EMP01,Meera,CTO,95,Bengaluru
+EMP02,Arvind,CEO,90,Mumbai
+EMP03,Nandini,CISO,88,Bengaluru
+EMP04,Ishaan,Security Engineer,78,Bengaluru
+EMP05,Tara,Security Analyst,70,Pune
+EMP06,Rahul,Senior Engineer,76,Bengaluru
+EMP07,Priya,ML Engineer,72,Hyderabad
+EMP08,Karan,DevOps Engineer,81,Bengaluru
+EMP09,Sneha,Data Scientist,74,Chennai
+EMP10,Vikram,Backend Engineer,69,Pune
+EMP11,Devika,Head of Compliance,83,Mumbai
+EMP12,Rohan,Compliance Analyst,62,Mumbai
+EMP13,Kavya,HR Manager,58,Bengaluru
+EMP14,Aditya,Finance Manager,60,Mumbai
+EMP15,Naveen,Systems Administrator,66,Bengaluru
+EMP16,Zoya,Contract Developer,55,Hyderabad
+EMP17,Pranav,Engineering Manager,79,Bengaluru
+EMP18,Lakshmi,VP Engineering,86,Bengaluru
+EMP19,Imran,External Auditor,61,Mumbai
+EMP20,Chitra,Intern,45,Chennai

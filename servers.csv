@@ -1,0 +1,6 @@
+server_id,name,zone,datacenter
+SRV01,Server-X,Restricted,Bengaluru DC
+SRV02,Server-Y,Internal,Bengaluru DC
+SRV03,Server-Z,DMZ,Mumbai DC
+SRV04,Build-Server,Internal,Pune DC
+SRV05,Backup-Vault,Restricted,Mumbai DC

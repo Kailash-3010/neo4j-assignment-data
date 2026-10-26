@@ -1,0 +1,8 @@
+document_id,name,classification,size_mb
+DOC01,Aurora Source Code,Confidential,1200
+DOC02,Aurora Roadmap,Internal,15
+DOC03,Customer Database,Confidential,800
+DOC04,Employee Handbook,Public,5
+DOC05,Training Dataset,Internal,650
+DOC06,Security Audit Report,Confidential,120
+DOC07,Access Logs,Internal,520
